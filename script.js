@@ -1,4 +1,4 @@
-const message = `I miss you Lexi, I think and yearn about you everyday.\n\nI’m really sorry for everything, I'm pretty much in shambles after you left. \n\nI know you’re doing better without me and don’t miss me, but I just hope you’re okay.\n\nI hope you’re not bullying our child Bri anymore. I pray for you everyday. I miss you and Bri.`;
+const message = `Happy valentines day Nami!.\n\nI’m glad to have you back in my life, I missed you so much. \n\nBeing around you still brings out my soft spot which isn't fair.\n\nI hope you know how much I truly love you Nami, I care about you and that hasn't ever changed.`;
 
 function showLetter() {
    // Play background music
