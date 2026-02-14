@@ -1,4 +1,4 @@
-const message = `Happy valentines day Nami!.\n\nI’m glad to have you back in my life, I missed you so much. \n\nBeing around you still brings out my soft spot which isn't fair.\n\nI hope you know how much I truly love you Nami, I care about you and that hasn't ever changed.`;
+const message = `Happy valentines day Nami!.\n\nI’m glad to have you back in my life, I missed you so much. \n\nBeing around you still brings out my soft spot which isn't fair.\n\nI hope you know how much I truly love you Nami, unchanged throughout the seasons.`;
 
 function showLetter() {
    // Play background music
